@@ -10,8 +10,6 @@ Applications for finding movies for every evening, with the ability to add to th
 
 ![4](https://github.com/gWeaverDev/iWanna/assets/124156429/a8fdf9d2-57f7-4ed7-91df-4955813ccb88)
 
-![5](https://github.com/gWeaverDev/iWanna/assets/124156429/2c7274e1-7850-4433-a9f8-211fbc940b0a)
-
 ![6](https://github.com/gWeaverDev/iWanna/assets/124156429/a746192e-0eb4-495c-aa97-e021a338e6a7)
 
 ![7](https://github.com/gWeaverDev/iWanna/assets/124156429/ff632ab9-0d04-4199-86da-9fa6b047957a)
