@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  iWanna
+
+  Created by George Weaver on 25.06.2023.
+  
+*/
+
+//Common
+"common.ok" = "OK";
+"common.cancel" = "Cancel";
+
+//Buttons
+"button.back" = "Отменить";
+"button.clearAll" = "Очистить все";
+"button.willWatch" = "Буду смотреть";
+"button.share" = "Поделитсья";
+"button.viewed" = "Просмотрено";
+"button.show" = "Показать";
+"button.skip" = "Пропустить";
+"button.next" = "Дальше";
+"button.getStarted" = "Начнем";
+
+//Onboarding
+"onboarding.firstPage.title" = "Добро пожаловать \nв iWanna!";
+"onboarding.firstPage.subtitle" = "приложение для поиска фильмов";
+"onboarding.secondPage.title" = "У нас есть \nизбранное,";
+"onboarding.secondPage.subtitle" = "где ты можешь сохранить фильмы";
+
+//Main
+"main.title" = "Рекомендуем фильмы";
+
+//Filters
+"filters.mainTitle" = "Поиск лучших фильмов";
+"filters.title.year" = "Год выпуска";
+"filters.title.country" = "Страна";
+"filters.title.genre" = "Жанр";
+"filters.title.rating" = "Рейтинг";
+"filter.title.nomatter" = "неважно";
+"filters.country.russia" = "Россия";
+"filters.country.usa" = "США";
+"filters.country.france" = "Франция";
+"filters.year.2023" = "2023";
+"filters.year.2022" = "2022";
+"filters.year.2021" = "2021";
+"filters.year.2020" = "2020";
+"filters.genre.action" = "боевик";
+"filters.genre.fantastic" = "фантастика";
+"filters.genre.drama" = "драма";
+"filters.genre.horror" = "Хоррор";
+
+//Detail
+"detail.buttonTitle.willWatch" = "Буду смотреть";
+"detail.buttonTitle.share" = "Поделиться";
+"detail.buttonTitle.viewed" = "Просмотрен";
+
+//Wishlist
+"wishlist.mainTitle" = "Буду смотреть";
+"ishlist.titleEmpty" = "пусто";
+
+//ReachAbilityMessages
+"ethernetStatus.description.available" = "Подключение к сети восстановлено";
+"ethernetStatus.description.notAvailable" = "Отсутствует подключение к интернету";
+
+//Network
+"network.error.unknow" = "Неизвестная ошибка";
+"network.error.api.failmap" = "Произошла ошибка при получении данных с сервера";
+

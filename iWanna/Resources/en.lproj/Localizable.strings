@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  iWanna
+
+  Created by George Weaver on 25.06.2023.
+  
+*/
+
+//Common
+"common.ok" = "OK";
+"common.cancel" = "Cancel";
+
+//Buttons
+"button.back" = "Cancel";
+"button.clearAll" = "Clear all";
+"button.willWatch" = "Will watch";
+"button.share" = "Share";
+"button.viewed" = "Viewed";
+"button.show" = "Show";
+"button.skip" = "Skip";
+"button.next" = "Next";
+"button.getStarted" = "Get strated";
+
+
+//Onboarding
+"onboarding.firstPage.title" = "Welcome \nto iWanna!";
+"onboarding.firstPage.subtitle" = "movie search app";
+"onboarding.secondPage.title" = "We have \nfavorites,";
+"onboarding.secondPage.subtitle" = "where can you save movies";
+
+//Main
+"main.title" = "We recommend movies";
+
+//Filters
+"filters.mainTitle" = "Search for the best movies";
+"filters.title.year" = "Year of release";
+"filters.title.country" = "Country";
+"filters.title.genre" = "Genre";
+"filters.title.rating" = "Rating";
+"filter.title.nomatter" = "no matter";
+"filters.country.russia" = "Russia";
+"filters.country.usa" = "USA";
+"filters.country.france" = "France";
+"filters.year.2023" = "2023";
+"filters.year.2022" = "2022";
+"filters.year.2021" = "2021";
+"filters.year.2020" = "2020";
+"filters.genre.action" = "action";
+"filters.genre.fantastic" = "fantastic";
+"filters.genre.drama" = "drama";
+"filters.genre.horror" = "horror";
+
+//Detail
+"detail.buttonTitle.willWatch" = "I will watch";
+"detail.buttonTitle.share" = "Share";
+"detail.buttonTitle.viewed" = "Viewed";
+
+//Wishlist
+"wishlist.mainTitle" = "I will watch";
+"wishlist.titleEmpty" = "empty";
+
+//ReachAbilityMessages
+"ethernetStatus.description.available" = "Network connection restored";
+"ethernetStatus.description.notAvailable" = "There is no internet connection";
+
+//Network
+"network.error.unknow" = "Unknown error";
+"network.error.api.failmap" = "An error occurred while receiving data from the server";
