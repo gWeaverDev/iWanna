@@ -80,7 +80,7 @@ final class OnboardingVC: UIViewController {
     }
     
     @objc
-    private func nextTapped(_ sender: UIButton) { //TODO: - need fixed
+    private func nextTapped(_ sender: UIButton) {
         let visibleItems = self.onboardingCollectionView.indexPathsForVisibleItems
         guard let currentItem = visibleItems.first else { return }
         let isLastSlide = currentItem.item == viewModel.onboardings.count - 1

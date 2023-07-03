@@ -93,9 +93,5 @@ final class AnimationHelper {
     @objc
     private func handleWindowTap() {
         window = nil
-//        window.isHidden = true
-//        window.layer.sublayers?.forEach({ $0.removeFromSuperlayer() })
-//        window.subviews.forEach({ $0.removeFromSuperview() })
-//        completion?()
     }
 }

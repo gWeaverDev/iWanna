@@ -89,23 +89,19 @@ final class FilterCountryCell: UITableViewCell {
     private func buttonAction(_ sender: UIButton) {
         let country = sender.isSelected ? "" : sender.titleLabel?.text ?? ""
                 
-        // Деактивируем предыдущую активную кнопку
         activeButton?.isSelected = false
         activeButton?.setTitleColor(R.color.background_gray(), for: .normal)
         activeButton?.layer.borderColor = R.color.background_gray()?.cgColor
         
-        // Проверяем, нажата ли та же кнопка повторно
         if sender == activeButton {
             activeButton = nil
         } else {
-            // Активируем новую кнопку
             sender.isSelected = true
             sender.setTitleColor(R.color.background_yellow(), for: .normal)
             sender.layer.borderColor = R.color.background_yellow()?.cgColor
             activeButton = sender
         }
         
-        // Отправляем значение активной кнопки через замыкание
         buttonTapped?(country.mapCountry())
     }
 }

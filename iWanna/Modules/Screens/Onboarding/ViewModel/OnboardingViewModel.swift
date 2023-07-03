@@ -71,7 +71,6 @@ final class OnboardingViewModelImp: OnboardingViewModel, Coordinating {
         currentPage += 1
         
         if currentPage >= onboardings.count - 1 {
-            // Последняя страница, изменяем тайтл кнопки на "Get Started"
             delegate?.changeBeginButtonCondition(condition: true)
         }
         
