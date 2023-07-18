@@ -9,3 +9,7 @@
 
 <img src="https://github.com/gWeaverDev/iWanna/assets/124156429/5004207e-ac1d-4319-98b4-3f6fdd004454" width="360" height="711">
 
+<img src="https://github.com/gWeaverDev/iWanna/assets/124156429/c325efa1-f553-4dcd-a87c-e5f4540907cd" width="360" height="711">
+
+
+
