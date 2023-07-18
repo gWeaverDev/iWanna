@@ -7,5 +7,5 @@
 <h1 align="center">This applications for finding movies for every evening, with the ability to add to the wishlist</h1>
 
 
-<img src="https://github.com/gWeaverDev/iWanna/assets/124156429/5004207e-ac1d-4319-98b4-3f6fdd004454" width="320" height="600">
+<img src="https://github.com/gWeaverDev/iWanna/assets/124156429/5004207e-ac1d-4319-98b4-3f6fdd004454" width="400" height="790">
 
